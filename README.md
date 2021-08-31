@@ -4,5 +4,5 @@ im Gentleman#2292
 </h1>
 <h3>things i made</h3>
 DeezHax & BetterPhobos [java]<br/>
-![](https://komarev.com/ghpvc/?GentlemanMC&color=blue)
-
+![](https://komarev.com/ghpvc/?GentlemanMC&label=PROFILE+VIEWS)
+<dev>
