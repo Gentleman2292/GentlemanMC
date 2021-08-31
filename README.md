@@ -5,3 +5,5 @@ im Gentleman#2292
 <h3>things i made</h3>
 DeezHax & BetterPhobos [java]<br/>
 </div>
+https://img.shields.io/github/followers/
+![](https://komarev.com/ghpvc/?GentlemanMC)
